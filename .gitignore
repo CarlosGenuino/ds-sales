@@ -21,3 +21,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+frontend/.gitignore
+frontend/yarn.lock
+frontend/node_modules
+
+backend/.gitignore
+backend/gradle/**
+backend/gradlew
+backend/gradlew.bat
